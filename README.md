@@ -1,4 +1,4 @@
-# 🕹️ Retro Arcade Community
+ # 🕹️ Retro Arcade Community
 
 레트로 미니게임 + 기록/랭킹/커뮤니티 플랫폼
 
@@ -20,13 +20,6 @@
 - 🔐 소셜 로그인 (Google, Naver, Kakao)
 - ♟️ Lichess 외부 API 연동 — 204개 퍼즐 풀 무한 제공
 
-## 실행 방법
-
-```bash
-npm install
-node server.js
-# http://localhost:3000 접속
-```
 
 ## 환경 변수 (.env)
 
